@@ -1,2 +1,13 @@
-# co-alquilando-backend
-Co-Alquilando project. Backend of business logic in Spring Boot and Java11
+# Co-Alquilando
+
+### Reference Documentation
+For further reference, please consider the following sections:
+
+* [Official Gradle documentation](https://docs.gradle.org)
+* [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.6.RELEASE/gradle-plugin/reference/html/)
+
+### Additional Links
+These additional references should also help you:
+
+* [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
+
