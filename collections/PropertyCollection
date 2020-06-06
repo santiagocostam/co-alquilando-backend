@@ -1,0 +1,19 @@
+{
+   "propertyId":"CBA11111",
+   "ownerId":1111,
+   "status": "available",
+   "attributes":[
+      {
+         "attributeId":"typology",
+         "attributeName":"typology",
+         "value":"apartment",
+         "description":"a description"
+      },
+      {
+         "attributeId":"rooms",
+         "attributeName":"rooms",
+         "value":"2",
+         "description":"a description"
+      }
+   ]
+}

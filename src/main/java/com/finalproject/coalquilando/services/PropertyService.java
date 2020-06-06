@@ -22,6 +22,7 @@ public class PropertyService {
 
         return propertyRepository.save(
                 Property.builder()
+                        .propertyId(property.getPropertyId())
                         .ownerId(property.getOwnerId())
                         .status(defineStatus(property))
                         .attributes(property.getAttributes())

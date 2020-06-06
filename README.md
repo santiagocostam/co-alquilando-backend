@@ -34,6 +34,10 @@ MongoDB Client configuration from Gradle:
 Using DB. Insert information:
 [Insert info](https://docs.mongodb.com/guides/server/insert/)
 
+#### Postman 
+
+https://www.getpostman.com/collections/32fa5bb16c3321956839
+
 
 #### Spring 
 
